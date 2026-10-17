@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+body{
+    background-color: bisque;
+}
+
+table{
+    margin-left: 7%;
+    border-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+th{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

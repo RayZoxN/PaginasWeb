@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+
+h1{
+    color: rgb(0, 170, 170);
+}
+
+h1,h4{
+    text-align: center;
+}
+
+p{
+    margin-left: 5%;
+}
+
+p,td,h4{
+    color: white;
+}
+
+.Tabla{
+    background-color: rgb(149, 216, 255);
+    color: black;
+}
+
+.Seccion{
+    background-color: rgb(2, 73, 130);
+    color: rgb(149, 216, 255);
+}
+
+.Calificacion{
+    background-color: rgb(2, 73, 130);
+    color: white;
+}
+
+td{
+    
+}
+
+table{
+    border-color: white;
+}

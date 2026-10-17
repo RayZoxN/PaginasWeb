@@ -1,0 +1,29 @@
+form{
+    background-color: rgb(86, 86, 40);
+}
+
+legend{
+    border-color: rgb(128, 0, 247);
+    border-radius: 3cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+input[type="text"]{
+    background: black;
+    color: white;
+}
+
+input[type="number"]{               
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+input[type="color"]{
+    background-color: white;
+}
+
+input[type="submit"]{
+    color: rgb(0, 255, 30);
+    background: black;
+}
